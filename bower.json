@@ -1,0 +1,23 @@
+{
+  "name": "capped-iterator",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "alin.roman@pfh.ro"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "loop",
+    "capped"
+  ],
+  "homepage": "https://github.com/nr913/capped-iterator",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
