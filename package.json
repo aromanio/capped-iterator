@@ -1,0 +1,24 @@
+{
+  "name": "capped-iterator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nr913/capped-iterator.git"
+  },
+  "keywords": [
+    "javascript",
+    "loop",
+    "capped"
+  ],
+  "author": "alin.roman@pfh.ro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nr913/capped-iterator/issues"
+  },
+  "homepage": "https://github.com/nr913/capped-iterator#readme"
+}
